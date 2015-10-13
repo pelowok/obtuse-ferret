@@ -2,7 +2,7 @@
 <html lang="">
   <head>
     <meta charset="utf-8">
-    <title>angular js examples</title>
+    <title>angular d3 examples</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -25,11 +25,13 @@
 
     
     <div class="hero-unit">
-      <h1>'Allo, 'Allo!</h1>
-      <p>You now have</p>
-      <ul>
-        <li><a href="https://html5boilerplate.com/">HTML5 Boilerplate</a></li>
-      </ul>
+
+      <div ng-app="myApp">
+
+        <bars data="40,4,55,15,16,33,52,20"></bars>
+
+      </div>
+
     </div>
     
 
@@ -39,7 +41,8 @@
     <!-- endbower -->
     <!-- endbuild -->
 
-    
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script>
 
     <!-- build:js scripts/main.js -->
     <script src="scripts/main.js"></script>
