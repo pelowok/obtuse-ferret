@@ -4,22 +4,6 @@
 
 app.controller('DataController', ['$scope',function($scope) {
 
-    //$scope.pieChartData = function(){
-    //
-    //    var testdata = [];
-    //
-    //    for(var i = (Math.random()*50 + 10); i > 0; i--) {
-    //
-    //        testdata.push( Math.round( Math.random() * 100 ) );
-    //
-    //    }
-    //
-    //    console.log('pieChartData : ' + testdata);
-    //
-    //    return testdata;
-    //
-    //};
-
     $scope.lineChartData = function() {
 
             var sin = [],
@@ -92,8 +76,6 @@ app.controller('DataController', ['$scope',function($scope) {
         return data;
 
     };
-
-    $scope.howmany = 0;
 
     $scope.bubbleScatterChartData = function() {
 

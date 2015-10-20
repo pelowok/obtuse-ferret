@@ -82,7 +82,8 @@ app.directive('bubblescatterchart', function ($parse) {
         template: '<div id="bubblescatterchart"><svg></svg></div>',
         link: function (scope, element, attrs) {
 
-            var data = JSON.parse(attrs.data);
+            // var data = attrs.data;
+            var data = JSON.parse(bubblescatterdata);
 
             console.log('appdirective bubble scatter chart catches data = ' + data);
 
