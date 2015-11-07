@@ -1,0 +1,174 @@
+[
+  {
+    "key": "",
+    "type": "Failed Installations",
+    "values": [
+      {
+        "key": "hdog_usa:85532",
+        "type": "Law Office of Jeff Krew (MAV) *",
+        "values": [
+          {
+            "key": "hdog_usa:110605",
+            "values": [
+              {
+                "type": [
+                  "Patch Management"
+                ],
+                "type": "SERVER",
+                "key": "hdog_usa:1930555"
+              }
+            ],
+            "type": "Home Office (basement)"
+          }
+        ]
+      },
+      {
+        "key": "hdog_usa:13450",
+        "type": "Simple IT Care",
+        "values": [
+          {
+            "key": "hdog_usa:225056",
+            "values": [
+              {
+                "type": [
+                  "Bitdefender"
+                ],
+                "type": "BRENTS-SURFACE3",
+                "key": "hdog_usa:1623253"
+              }
+            ],
+            "type": "Brent's Office"
+          }
+        ]
+      },
+      {
+        "key": "hdog_usa:59069",
+        "type": "DQC (MAV-IASO)",
+        "values": [
+          {
+            "key": "hdog_usa:74364",
+            "values": [
+              {
+                "type": [
+                  "Patch Management"
+                ],
+                "type": "SHORETEL",
+                "key": "hdog_usa:817646"
+              }
+            ],
+            "type": "Main Office"
+          }
+        ]
+      },
+      {
+        "key": "hdog_usa:60323",
+        "type": "Convergent Solutions (MAV-Web)",
+        "values": [
+          {
+            "key": "hdog_usa:76098",
+            "values": [
+              {
+                "type": [
+                  "Web Protection"
+                ],
+                "type": "CDASHIELL-LT",
+                "key": "hdog_usa:1560438"
+              },
+              {
+                "type": [
+                  "Patch Management"
+                ],
+                "type": "RKEHOE",
+                "key": "hdog_usa:2131898"
+              },
+              {
+                "type": [
+                  "Take Control"
+                ],
+                "type": "AMOSS-LT",
+                "key": "hdog_usa:1247832"
+              }
+            ],
+            "type": "Main Office"
+          }
+        ]
+      },
+      {
+        "key": "hdog_usa:152845",
+        "type": "EJK",
+        "values": [
+          {
+            "key": "hdog_usa:206884",
+            "values": [
+              {
+                "type": [
+                  "Active Discovery"
+                ],
+                "type": "EJK2SERVER",
+                "key": "hdog_usa:1368153"
+              }
+            ],
+            "type": "Main"
+          }
+        ]
+      },
+      {
+        "key": "hdog_usa:29617",
+        "type": "RTS",
+        "values": [
+          {
+            "key": "hdog_usa:34911",
+            "values": [
+              {
+                "type": [
+                  "Active Discovery"
+                ],
+                "type": "RTS-MD-NS-01",
+                "key": "hdog_usa:159397"
+              }
+            ],
+            "type": "Main Office"
+          }
+        ]
+      },
+      {
+        "key": "hdog_usa:85506",
+        "type": "CRSC (UL+1) *",
+        "values": [
+          {
+            "key": "hdog_usa:110574",
+            "values": [
+              {
+                "type": [
+                  "Patch Management"
+                ],
+                "type": "JUDY-PC",
+                "key": "hdog_usa:1612090"
+              }
+            ],
+            "type": "Main Office"
+          }
+        ]
+      },
+      {
+        "key": "hdog_usa:143638",
+        "type": "Marian House (MAV)",
+        "values": [
+          {
+            "key": "hdog_usa:193100",
+            "values": [
+              {
+                "type": [
+                  "Patch Management"
+                ],
+                "type": "RESLAPTOP1",
+                "key": "hdog_usa:2106005"
+              }
+            ],
+            "type": "MH1 - 949 Gorsuch Ave - Main"
+          }
+        ]
+      }
+    ]
+  }
+]

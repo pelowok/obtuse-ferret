@@ -7,7 +7,7 @@ body {
 }
 
 .hero-unit {
-  width: 400px;
+  width: 95%;
   font-size: 18px;
   font-weight: 200;
   line-height: 30px;
@@ -15,6 +15,10 @@ body {
   border-radius: 6px;
   padding: 20px;
   margin: 25px;
+}
+.hero-unit span {
+  float:left;
+  padding: 20px;
 }
 
 .hero-unit h1 {
